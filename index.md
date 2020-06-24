@@ -13,3 +13,5 @@ Dies ist die Überschrift des Zitats:
 > Zitat Inhalt zweite Zeile
 
 
+
+<img src="https://cdn.pixabay.com/photo/2016/02/19/11/19/computer-1209641_960_720.jpg"/>
